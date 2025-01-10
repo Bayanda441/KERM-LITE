@@ -1,0 +1,2 @@
+SESSION_ID = KermLite~UuMHrj7w
+SUDO = 91986543217 
