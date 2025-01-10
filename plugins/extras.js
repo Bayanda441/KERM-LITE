@@ -1,4 +1,3 @@
-const fs = require("fs-extra");
 const path = require("path");
 const { buffThumb } = require("../media");
 const { createCanvas, loadImage } = require("canvas");
